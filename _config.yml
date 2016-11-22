@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: Pwnies and rainbows and and and...
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
@@ -6,14 +6,12 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /kasper
-domain_name: "http://yourblog-domain.com"
-google_analytics: "UA-XXXXXXXX-X"
-plugins: [jekyll-paginate]
+baseurl: /
+domain_name: 'http://morbidrsa.github.io'
+# google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: ""
-author: "Your Name"
-
-# Disqus config
-disqus-shortname: ""
+url:            'http://morbidrsa.github.io'
+author:         'Johannes Thumshirn'
+github_username: morbidrsa
