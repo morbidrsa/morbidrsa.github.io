@@ -4,6 +4,10 @@ title: Talks and Articles
 ---
 
 # Talks
+- Btrfs RAID on zoned devices, Linux Plumbers Conference 2022 [[Video](https://www.youtube.com/watch?v=S_axJR8VNCA)]
+
+- BTRFS declustered parity RAID for zoned devices, Lund Linux Conference 2022 [[Video](https://www.youtube.com/watch?v=gLQqbpoSCy8)]
+
 - [Introduction to the Linux Block I/O Layer ](https://speakerdeck.com/morbidrsa/o-layer), June 2016 [[Video](https://youtu.be/ebHINEF6PDk)]
 
 - Comparison of scsi-mq vs. legacy, September 2017 [[Video](https://www.youtube.com/watch?v=qr15euSAWYI)]
