@@ -68,7 +68,7 @@ convention we get:
 ```
 
 So the `struct btrfs_block_group` is in RDI, `bytenr` will be in RSI, `size`
-in RDX and used in RCX.
+in RDX and `used` in RCX.
 
 Next we need to grab the offsets for `length` and `alloc_offset` from the
 start of `struct btrfs_block_group`. That's easiest with `pahole`:
