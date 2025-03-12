@@ -14,6 +14,8 @@ domain_name: 'http://morbidrsa.github.io'
 # google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
+theme: jekyll-theme-minimal
+
 # Details for the RSS feed generator
 url:            'http://morbidrsa.github.io'
 author:         'Johannes Thumshirn'
