@@ -15,7 +15,7 @@ and hopefully also is of some use for others.
 
 The function in question is `__btrfs_add_free_space_zoned()`:
 
-```C
+```c
 static int __btrfs_add_free_space_zoned(struct btrfs_block_group *block_group,
 					u64 bytenr, u64 size, bool used)
 {
@@ -135,7 +135,7 @@ test VM) the used parameter always is `true` and the other values differ.
 Looking at the first entry (that is created by the kernel not the `dd` test
 case) we see the prerequisites for `initial` being satisfied:
 
-```C
+```c
 initial = ((size == block_group->length) && (block_group->alloc_offset == 0));
 ```
 
