@@ -1,6 +1,6 @@
 name: Pwnies and rainbows and and and...
 description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: "Blogging about stuffs"
 
 markdown: kramdown
 highlighter: rouge
